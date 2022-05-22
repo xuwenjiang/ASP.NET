@@ -31,7 +31,4 @@
     <Content Remove="wwwroot\css\" />
     <Content Remove="wwwroot\js\" />
   </ItemGroup>
-  <ItemGroup>
-    <_WebToolingArtifacts Remove="Properties\PublishProfiles\AzurePlay1-Web-Deploy.pubxml" />
-  </ItemGroup>
 </Project>
