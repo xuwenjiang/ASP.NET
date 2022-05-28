@@ -2,3 +2,5 @@
 .vs/
 TodoApi/obj/
 TodoApi/bin/
+BookStoreApi/obj/
+BookStoreApi/bin/
