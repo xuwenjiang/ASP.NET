@@ -23,14 +23,14 @@ builder.Services.AddSwaggerGen(config =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-//if (app.Environment.IsDevelopment())
-//{
+if (app.Environment.IsDevelopment())
+{
     app.UseDeveloperExceptionPage();
 
     // Swagger.
     app.UseSwagger();
     app.UseSwaggerUI();
-//}
+}
 
 app.UseDefaultFiles();
 app.UseStaticFiles();

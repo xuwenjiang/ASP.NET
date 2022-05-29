@@ -1,6 +1,10 @@
 .DS_Store
 .vs/
-TodoApi/obj/
-TodoApi/bin/
+AzurePlayApi/obj/
+AzurePlayApi/bin/
+AzurePlayApi/Properties/PublishProfiles/
+AzurePlayApi/Properties/ServiceDependencies/
 BookStoreApi/obj/
 BookStoreApi/bin/
+BookStoreApi/Properties/PublishProfiles/
+BookStoreApi/Properties/ServiceDependencies/
