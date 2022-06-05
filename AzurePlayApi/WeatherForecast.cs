@@ -1,4 +1,4 @@
-﻿namespace TodoApi;
+﻿namespace AzurePlayApi;
 
 public class WeatherForecast
 {

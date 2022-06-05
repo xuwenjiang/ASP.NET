@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace TodoApi.Controllers;
+namespace AzurePlayApi.Controllers;
 
 [ApiController]
 [Route("[controller]")]
