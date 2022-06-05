@@ -1,9 +1,9 @@
 ﻿using System.Net.Mime;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using TodoApi.Models;
+using AzurePlayApi.Models;
 
-namespace TodoApi.Controllers
+namespace AzurePlayApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

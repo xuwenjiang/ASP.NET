@@ -1,4 +1,4 @@
-﻿namespace TodoApi.Models
+﻿namespace AzurePlayApi.Models
 {
     public class TodoItem
     {

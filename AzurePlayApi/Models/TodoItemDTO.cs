@@ -8,7 +8,7 @@
 /// Flatten object graphs that contain nested objects. Flattened object graphs can be more convenient for clients.
 /// </summary>
 
-namespace TodoApi.Models
+namespace AzurePlayApi.Models
 {
     public class TodoItemDTO
     {
